@@ -3,5 +3,5 @@ just another repository
 
 nama saya Indy
 yuni billy warren
-cook 2
-master
+cook 2 
+develop
