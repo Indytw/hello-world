@@ -5,3 +5,4 @@ nama saya Indy
 yuni billy warren
 cook 2 
 develop
+reset
